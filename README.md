@@ -1,3 +1,8 @@
+# Linux测速方法
+````bash
+
+````
+
 # Stair Speedtest Reborn
 **Proxy performance batch tester based on Shadowsocks(R), V2Ray and Trojan**  
 [![Build Status](https://travis-ci.org/tindy2013/stairspeedtest-reborn.svg?branch=master)](https://travis-ci.org/tindy2013/stairspeedtest-reborn)
